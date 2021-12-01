@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Piano_Piano_hackathon_paris_1121/static/css/main.79d198ca.chunk.css",
-    "main.js": "/Piano_Piano_hackathon_paris_1121/static/js/main.b9774289.chunk.js",
-    "main.js.map": "/Piano_Piano_hackathon_paris_1121/static/js/main.b9774289.chunk.js.map",
+    "main.js": "/Piano_Piano_hackathon_paris_1121/static/js/main.c5cd31a7.chunk.js",
+    "main.js.map": "/Piano_Piano_hackathon_paris_1121/static/js/main.c5cd31a7.chunk.js.map",
     "runtime-main.js": "/Piano_Piano_hackathon_paris_1121/static/js/runtime-main.354c0b77.js",
     "runtime-main.js.map": "/Piano_Piano_hackathon_paris_1121/static/js/runtime-main.354c0b77.js.map",
     "static/css/2.82de57f7.chunk.css": "/Piano_Piano_hackathon_paris_1121/static/css/2.82de57f7.chunk.css",
@@ -22,6 +22,6 @@
     "static/css/2.82de57f7.chunk.css",
     "static/js/2.f1aa9b19.chunk.js",
     "static/css/main.79d198ca.chunk.css",
-    "static/js/main.b9774289.chunk.js"
+    "static/js/main.c5cd31a7.chunk.js"
   ]
 }
