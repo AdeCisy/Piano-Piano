@@ -32,6 +32,7 @@
     text-align: center;
     font-size: 18px;
     background: #fff;
+    opacity: 50%;
   
     /* Center slide text vertically */
     display: -webkit-box;
@@ -47,7 +48,7 @@
     -webkit-align-items: center;
     align-items: center;
     border-radius: 20%;
-    opacity: 50%;
+    
     
   }
   
