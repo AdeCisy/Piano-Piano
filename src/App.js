@@ -18,6 +18,7 @@ function App() {
       <Header userName={userName}/>
      <PianoBackground/>
     <Routes>
+      <Route path="/Piano_Piano_hackathon_paris_1121" element={<Welcome userName={userName} setUserName={setUserName} />}/>
       <Route path="/" element={<Welcome userName={userName} setUserName={setUserName} />}/>
       <Route path="/Playground" element={<PianoKeyboard />} />
       <Route path="/Training" element={<PianoHeroe />} />
