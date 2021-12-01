@@ -23,6 +23,7 @@ function PianoHeroe() {
 
   return (
     <section className="damier">
+        
         <div className="cardandButton">
             <div className="buttons" >
       <button class="button"
@@ -42,6 +43,7 @@ function PianoHeroe() {
           setDisplayCard(starWarsDarkTheme);
         }}> Star Wars </button> 
       </div>
+
       {displayCard && <div class="lineA">
       <Swiper
           spaceBetween={30}
