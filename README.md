@@ -1,3 +1,16 @@
+# HACKATHON 24H
+
+The following website project has been done within 24h in november 2021 thanks to a 4 people team made of : 
+Sarah Accolas, 
+Arnaud Begin, 
+Etienne Fromentin
+& Matthieu Lemarchand.
+
+# CONCEPT
+
+This website is dedicated to music's initiation for kids from 3 to 7 years old, under the supervision of adults.
+The site is therefore for desktop and tablet use first !
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
